@@ -1,0 +1,3 @@
+<view id="page">
+  <canvas type="webgl" id="myCanvas" style="height:100vh;width:100vw" bindtouchstart="onTouchStart" bindtouchmove="onTouchMove"/>
+</view>
